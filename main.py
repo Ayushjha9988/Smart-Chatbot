@@ -107,8 +107,8 @@ START = f"""
 """
 PIYUSH_OP = [
     [
-        InlineKeyboardButton(text="🌹 𝐎𝐖𝐍𝐄𝐑 🌹", url=f"https://t.me/OpSangram"),
-        InlineKeyboardButton(text="💬 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩 💬", url=f"https://t.me/WorldChattingFriendsWCF"),
+        InlineKeyboardButton(text="🌹 𝐎𝐖𝐍𝐄𝐑 🌹", url=f"https://t.me/TANNU_XD"),
+        InlineKeyboardButton(text="💬 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩 💬", url=f"https://t.me/ATTITUDE_NAI"),
     ],
     [
         InlineKeyboardButton(
@@ -133,7 +133,7 @@ PNG_BTN = [
      ],
      [
          InlineKeyboardButton(text="💬 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩 💬", 
-                              url=f"https://t.me/WorldChattingFriendsWCF",
+                              url=f"https://t.me/ATTITUDE_NAI",
          ),
      ],
 ]
@@ -145,11 +145,11 @@ BACK = [
 ]
 ABOUT_BTN = [
       [
-           InlineKeyboardButton(text="❤️ 𝐆𝐫𝐨𝐮𝐩 ❤️", url=f"https://t.me/WorldChattingFriendsWCF"),  
+           InlineKeyboardButton(text="❤️ 𝐆𝐫𝐨𝐮𝐩 ❤️", url=f"https://t.me/ATTITUDE_NAI"),  
            InlineKeyboardButton(text="😍 𝐇𝐞𝐥𝐩 😍", callback_data="HELP"),
       ],
       [    
-           InlineKeyboardButton(text="😝 𝐅𝐚𝐭𝐡𝐞𝐫 😝", url=f"https://t.me/OpSangram"), 
+           InlineKeyboardButton(text="😝 𝐅𝐚𝐭𝐡𝐞𝐫 😝", url=f"https://t.me/TANNU_XD"), 
            InlineKeyboardButton(text="🤑 𝐒𝐨𝐮𝐫𝐜𝐞 🤑", callback_data="SOURCE"),
       ],
       [ 
